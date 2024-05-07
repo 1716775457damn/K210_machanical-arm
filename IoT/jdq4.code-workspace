@@ -1,0 +1,68 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "redJDQ",
+			"path": "../redJDQ"
+		},
+		{
+			"name": "jdq8266",
+			"path": "../jdq8266"
+		},
+		{
+			"name": "JDQzh",
+			"path": "../JDQzh"
+		},
+		{
+			"name": "Electronic wooden fish_1",
+			"path": "../../../wulianwang/3.2.1-电子木鱼/Electronic wooden fish_1"
+		},
+		{
+			"name": "hongwai",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/hongwai"
+		},
+		{
+			"name": "mechanical arm",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/mechanical arm"
+		},
+		{
+			"name": "mechanical arm2",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/mechanical arm2"
+		},
+		{
+			"name": "can",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/can"
+		},
+		{
+			"name": "can2.0",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/can2.0"
+		},
+		{
+			"name": "can.3",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/can.3"
+		},
+		{
+			"name": "jxb2.0",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/jxb2.0"
+		},
+		{
+			"name": "can0.2",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/can0.2"
+		},
+		{
+			"name": "sensor",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/sensor"
+		},
+		{
+			"name": "esp8266",
+			"path": "D:/Users/陶鑫旺/Documents/PlatformIO/Projects/esp8266"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"type_traits": "cpp"
+		}
+	}
+}
