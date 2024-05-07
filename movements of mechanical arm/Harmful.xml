@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewDataSet>
+  <Type>PWM Servo</Type>
+  <Table>
+    <ID>1</ID>
+    <Move>#1 P2063 #2 P1500 #3 P1500 #4 P1500 #5 P1500 #6 P1500</Move>
+    <Time>T1000</Time>
+    <position>POS1X=135Y=2 POS2X=279Y=23 POS3X=315Y=123 POS4X=409Y=221 POS5X=285Y=321 POS6X=337Y=419</position>
+    <ID>2</ID>
+    <Move>#1 P2045 #2 P1500 #3 P1073 #4 P843 #5 P1451 #6 P1487</Move>
+    <Time>T1000</Time>
+    <position>POS1X=135Y=2 POS2X=279Y=23 POS3X=315Y=123 POS4X=409Y=221 POS5X=285Y=321 POS6X=337Y=419</position>
+  </Table>
+</NewDataSet>
