@@ -1,0 +1,1 @@
+labels = ["harmful", "reccle", "kitchen", "other"]
